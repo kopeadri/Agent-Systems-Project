@@ -12,3 +12,9 @@ Our work is based on the study from the *"An agent-based learning framework for 
 - influence of bacteriostatic / antibacterial agents on colony
 
 Examined bacteria: Escherichia coli
+
+
+## Libraries:
+- NumPy - vectorization, numerical computing
+- Matplotlib - visualization, animation 
+- SciPy - optimization, algebra 
